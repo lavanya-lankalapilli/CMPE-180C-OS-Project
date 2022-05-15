@@ -1,4 +1,4 @@
-package com.sjsu.cmpe.sort.service;
+package main.java.service;
 
 public interface Sort {
     int thresholdSize = 100;

@@ -1,4 +1,4 @@
-package com.sjsu.cmpe.sort.service.utility;
+package main.java.service.utility;
 
 public class Student implements Comparable {
     int id;

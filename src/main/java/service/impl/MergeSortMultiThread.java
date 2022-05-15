@@ -1,7 +1,7 @@
-package com.sjsu.cmpe.sort.service.impl;
+package main.java.service.impl;
 
-import com.sjsu.cmpe.sort.service.Sort;
-import com.sjsu.cmpe.sort.service.utility.Utility;
+import main.java.service.Sort;
+import main.java.service.utility.Utility;
 
 import java.util.Arrays;
 import java.util.concurrent.RecursiveAction;

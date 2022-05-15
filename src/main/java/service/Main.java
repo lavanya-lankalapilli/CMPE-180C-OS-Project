@@ -1,9 +1,10 @@
-import com.sjsu.cmpe.sort.service.impl.MergeSortMultiThread;
-import com.sjsu.cmpe.sort.service.impl.MergeSortSingleThread;
-import com.sjsu.cmpe.sort.service.impl.QuickSortMultiThread;
-import com.sjsu.cmpe.sort.service.impl.QuickSortSingleThread;
-import com.sjsu.cmpe.sort.service.utility.Student;
-import com.sjsu.cmpe.sort.service.utility.Utility;
+package main.java.service;
+
+import main.java.service.impl.MergeSortMultiThread;
+import main.java.service.impl.MergeSortSingleThread;
+import main.java.service.impl.QuickSortMultiThread;
+import main.java.service.impl.QuickSortSingleThread;
+import main.java.service.utility.Utility;
 
 public class Main {
     public static void main(String[] args) {
